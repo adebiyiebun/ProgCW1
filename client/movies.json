@@ -1,0 +1,14 @@
+{
+    "movies": [
+        {
+
+        "title": "Inside Out",
+        "ratings": 9,
+        "genre": "Comedy",
+        "similar": "Zootopia"
+
+        }
+
+
+    ]
+}
